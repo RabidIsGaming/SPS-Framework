@@ -3,7 +3,8 @@
 ### [Discord Server](https://discord.gg/clangen) || [Official website](https://clangen.io) || [Itch.io Page](https://sablesteel.itch.io/clan-gen-fan-edit) 
 
 ## Description
-Fan-edit of the warrior cat clangen game built using Python and Pygame.
+This is a mod adding antler-cats to the game using Acorns SPS_Framework to bring the mod to a modern iteration of the game!
+Planned changes are currently in the works
 
 ## Credits
 Original creator: just-some-cat.tumblr.com
